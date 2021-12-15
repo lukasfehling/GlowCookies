@@ -1,0 +1,10 @@
+{
+  "name": "GlowCookies",
+  "version": "4.0.0",
+  "repository": "git@github.com:lukasfehling/GlowCookies.git",
+  "author": "manucaralmo, lukasfehling",
+  "license": "GNU",
+  "dependencies": {
+    "rxjs": "^7.4.0"
+  }
+}
